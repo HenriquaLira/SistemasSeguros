@@ -1,0 +1,10 @@
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Domain\bin\Debug\netcoreapp3.1\SistemasSeguros.Domain.deps.json
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Domain\bin\Debug\netcoreapp3.1\SistemasSeguros.Domain.dll
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Domain\bin\Debug\netcoreapp3.1\SistemasSeguros.Domain.pdb
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Domain\obj\Debug\netcoreapp3.1\SistemasSeguros.Domain.csproj.AssemblyReference.cache
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Domain\obj\Debug\netcoreapp3.1\SistemasSeguros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Domain\obj\Debug\netcoreapp3.1\SistemasSeguros.Domain.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Domain\obj\Debug\netcoreapp3.1\SistemasSeguros.Domain.AssemblyInfo.cs
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Domain\obj\Debug\netcoreapp3.1\SistemasSeguros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Domain\obj\Debug\netcoreapp3.1\SistemasSeguros.Domain.dll
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Domain\obj\Debug\netcoreapp3.1\SistemasSeguros.Domain.pdb

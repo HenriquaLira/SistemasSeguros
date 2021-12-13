@@ -1,0 +1,12 @@
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\bin\x86\Debug\netcoreapp3.1\SistemasSeguros.Infrastructure.deps.json
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\bin\x86\Debug\netcoreapp3.1\SistemasSeguros.Infrastructure.dll
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\bin\x86\Debug\netcoreapp3.1\SistemasSeguros.Infrastructure.pdb
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\bin\x86\Debug\netcoreapp3.1\SistemasSeguros.Domain.dll
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\bin\x86\Debug\netcoreapp3.1\SistemasSeguros.Domain.pdb
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\obj\x86\Debug\netcoreapp3.1\SistemasSeguros.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\obj\x86\Debug\netcoreapp3.1\SistemasSeguros.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\obj\x86\Debug\netcoreapp3.1\SistemasSeguros.Infrastructure.AssemblyInfo.cs
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\obj\x86\Debug\netcoreapp3.1\SistemasSeguros.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\obj\x86\Debug\netcoreapp3.1\SistemasSeguros.Infrastructure.csproj.CopyComplete
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\obj\x86\Debug\netcoreapp3.1\SistemasSeguros.Infrastructure.dll
+C:\Users\henri\source\repos\SistemasSeguros\SistemasSeguros.Infrastructure\obj\x86\Debug\netcoreapp3.1\SistemasSeguros.Infrastructure.pdb
